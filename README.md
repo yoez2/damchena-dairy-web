@@ -49,5 +49,6 @@ damchen-dairy-web/
 
 ## 🙏 Acknowledgments
 
-- Thanks to all contributors who have helped shape this project
+- Thanks to:
 - Special thanks to the Shadcn UI and Radix UI teams for their amazing components
+- Initial design concepts by [Lovable AI](https://github.com/lovable)
